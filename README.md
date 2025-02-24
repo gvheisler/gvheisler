@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=gvheisler&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Aluno da Universidade Federal de Santa Maria<br/> Membro do Programa de Educação Tutorial de curso de Ciência da Computação</p>
+<p>Aluno da Universidade Federal de Santa Catarina<br/></p>
