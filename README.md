@@ -6,3 +6,13 @@
 
 ### (2020 - 2024) Sou bacharel em Ciência da Computação pela Universidade Federal de Santa Maria -- UFSM.
 
+## Tecnologias
+### Tenho como foco de estudo métodos de ETL/ELT, principalmente para Big Data. Entre as ferramentas que tenho utilizado, seguem algumas:
+- Spark
+- Airflow
+- RabbitMQ
+- MinIO
+- Docker
+
+## Linguagens de programação
+Sou habituado principalmente com a linguagem Python, porém tenho alguma experiência com R, C, C++ e Java.
