@@ -1,7 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gvheisler&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+# Olá, meu nome é Gabriel Vinícius Heisler!
 
-### Olá, meu nome é Gabriel!
+## Educação
+Sou bacharel em Ciência da Computação pela Universidade Federal de Santa Maria -- UFSM (2020 - 2024).
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=gvheisler&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Aluno da Universidade Federal de Santa Catarina<br/></p>
+Atualmente sou aluno de mestrado stricto sensu no Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal de Santa Catarina (UFSC), em Florianópolis, SC (2025 - ...), tendo como área de estudo Bancos de Dados, com foco na Engenharia de Dados, sob orientação do prof. Dr. Renato Fileto.
