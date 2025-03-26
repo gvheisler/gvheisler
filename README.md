@@ -15,4 +15,8 @@
 - Docker
 
 ## Linguagens de programação
-Sou habituado principalmente com a linguagem Python, porém tenho alguma experiência com R, C, C++ e Java.
+### Sou habituado principalmente com a linguagem Python, porém tenho alguma experiência com R, C, C++ e Java.
+
+## Projetos pessoais
+### Em projetos pessoais, tenho interesse na criação de dashboards para buscar visões interessantes sobre os dados.
+### Também tenho interesse pela criação de jogos, e um dia pretendo lançar algum.
